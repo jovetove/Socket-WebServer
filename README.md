@@ -36,3 +36,5 @@
 2. 安装requirements.txt 第三方库
 3. 进入项目目录，在powershell 中输入 `python main.py`
 4. 访问 127.0.0.1
+
+## 4. 支持通过改配置文件的方式改变端口等信息
